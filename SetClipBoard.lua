@@ -1,0 +1,1 @@
+setclipboard('trook on top')
